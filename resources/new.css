@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "IndianaCyprus";
+  src: url(IndianaCyprus.ttf) format("truetype");
+}
+@font-face {
+  font-family: "OddlyCalmingFont";
+  src: url(Run.ttf) format("truetype");
+}
+h1 { font-family: "IndianaCyprus", sans-serif }
+
+body{
+  overflow: hidden;
+}
+h2,h4{
+  font-family:"OddlyCalmingFont", sans-serif;
+   letter-spacing: 2px;
+}
